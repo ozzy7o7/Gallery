@@ -1,0 +1,23 @@
+.img-thumbnail {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover;
+}
+
+body {
+    padding-top: 70px;
+}
+
+nav {
+    background-color: #2C3E50;
+}
+
+.jumbotron {
+    background-color: #ECF0F1;
+    color: #2C3E50;
+}
+
+img {
+    height: 250px !important;
+    width: 100%;
+}
